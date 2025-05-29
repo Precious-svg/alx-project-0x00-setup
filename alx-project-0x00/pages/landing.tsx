@@ -5,7 +5,7 @@ const Landing: React.FC =  () => {
     return (
       <div>
         <h1 className=" text-xl font-extralight">Landing Page</h1>
-        <Card/>
+        <Card />
         <main className="p-8 flex flex-wrap gap-4">
             {/* Small */}
            <Button title="Small rounded-sm" styles="px-3 py-1 text-sm rounded-sm bg-blue-500 text-white" />
