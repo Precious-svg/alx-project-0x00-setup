@@ -1,8 +1,8 @@
 import Image from "next/image"
 import HOUSE_IMAGE from "@/public/assets/house.png"
 import STAR_IMAGE from "@/public/assets/star.png"
-import React from "react"
-import Pill from "./Pill"
+import React from "react";
+import Pill from  "./Pill"
 
 
 const Card: React.FC = () => {
